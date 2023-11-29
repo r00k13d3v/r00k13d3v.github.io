@@ -65,7 +65,7 @@ These features **do not work by default**.
 
 https://example.com
 
-## HTML in markdownsdsdsdasdasdsdfsdfsdfsdf
+## HTML in markdownsdsdsdasdasdsdfsdfsdfsdfdffdf
 
 ⚠️ HTML in markdown is quite unsafe, but if you want to support it, you can
 use [`rehype-raw`](https://github.com/rehypejs/rehype-raw).
